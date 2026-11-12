@@ -12,4 +12,4 @@ I’m a computer engineer based in the UAE. I build applied ML, real-time decisi
 
 **[AURAK Shuttle Delay Prediction](https://github.com/Sedulous-sedu/AI_weather)** — Compared logistic regression and XGBoost for arrival-delay prediction using weather, traffic, and route features. [IEEE Xplore paper](https://ieeexplore.ieee.org/document/11494561)
 
-[LinkedIn](https://www.linkedin.com/in/abinraj/)
+[Portfolio](https://sedulous-sedu.github.io/Abin_Portfolio/) · [Honey B replay](https://sedulous-sedu.github.io/Abin_Portfolio/#honey-b-replay) · [LinkedIn](https://www.linkedin.com/in/abinraj/)
